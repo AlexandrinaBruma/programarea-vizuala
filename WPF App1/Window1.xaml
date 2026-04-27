@@ -1,0 +1,29 @@
+﻿<Window x:Class="WPF_App1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_App1"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid Background="LavenderBlush">
+        <Label Name="Start_label" Content="CHESTIONAR" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,45,0,0" FontSize="22" FontWeight="Bold"/>
+        <Label Content="Cum se descifrează WPF?" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="275,116,0,0"/>
+        <ComboBox Name="Combo1" Width="250" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,147,0,0" RenderTransformOrigin="0.5,0.5" Background="#FFF8E2FB" BorderBrush="#FF0B0B0B">
+            <ComboBoxItem Content="Windows Prefered Form"/>
+            <ComboBoxItem Content="Widows Presentation Foundation"/>
+            <ComboBoxItem Content="Windows Presentation Form"/>
+        </ComboBox>
+        <Label Content="WPF-urile sunt parte din framework-ul .NET?" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="275,187,0,0"/>
+        <ComboBox Name="Combo2" Width="250" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,218,0,0" RenderTransformOrigin="0.5,0.5" Background="#FFF8E2FB" BorderBrush="#FF0B0B0B">
+            <ComboBoxItem Content="Da"/>
+            <ComboBoxItem Content="Nu"/>
+        </ComboBox>
+        <Label Content="WPF-urile nu pot lucra cu XAML?" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="275,258,0,0"/>
+        <ComboBox x:Name="Combo3" Width="250" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,289,0,0" RenderTransformOrigin="0.5,0.5" Background="#FFF8E2FB" BorderBrush="#FF0B0B0B">
+            <ComboBoxItem Content="Da"/>
+            <ComboBoxItem Content="Nu"/>
+        </ComboBox>
+
+    </Grid>
+</Window>

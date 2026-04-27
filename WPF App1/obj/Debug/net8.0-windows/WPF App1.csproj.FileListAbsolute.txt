@@ -1,0 +1,24 @@
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\bin\Debug\net8.0-windows\WPF App1.exe
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\bin\Debug\net8.0-windows\WPF App1.deps.json
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\bin\Debug\net8.0-windows\WPF App1.runtimeconfig.json
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\bin\Debug\net8.0-windows\WPF App1.dll
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\bin\Debug\net8.0-windows\WPF App1.pdb
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\Window1.g.cs
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\App.g.cs
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\WPF App1_MarkupCompile.cache
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\WPF App1_MarkupCompile.lref
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\Window1.baml
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\WPF App1.g.resources
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\WPF App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\WPF App1.AssemblyInfoInputs.cache
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\WPF App1.AssemblyInfo.cs
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\WPF App1.csproj.CoreCompileInputs.cache
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\WPF App1.dll
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\refint\WPF App1.dll
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\WPF App1.pdb
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\WPF App1.genruntimeconfig.cache
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\ref\WPF App1.dll
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\Page1.g.cs
+D:\CEITI\Anul III\Programarea vizuală\WPF App1\obj\Debug\net8.0-windows\Page1.baml

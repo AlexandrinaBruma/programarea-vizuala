@@ -1,0 +1,14 @@
+D:\CEITI\Anul III\Programarea vizuală\Ex1\bin\Debug\net10.0\Ex1.exe
+D:\CEITI\Anul III\Programarea vizuală\Ex1\bin\Debug\net10.0\Ex1.deps.json
+D:\CEITI\Anul III\Programarea vizuală\Ex1\bin\Debug\net10.0\Ex1.runtimeconfig.json
+D:\CEITI\Anul III\Programarea vizuală\Ex1\bin\Debug\net10.0\Ex1.dll
+D:\CEITI\Anul III\Programarea vizuală\Ex1\bin\Debug\net10.0\Ex1.pdb
+D:\CEITI\Anul III\Programarea vizuală\Ex1\obj\Debug\net10.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CEITI\Anul III\Programarea vizuală\Ex1\obj\Debug\net10.0\Ex1.AssemblyInfoInputs.cache
+D:\CEITI\Anul III\Programarea vizuală\Ex1\obj\Debug\net10.0\Ex1.AssemblyInfo.cs
+D:\CEITI\Anul III\Programarea vizuală\Ex1\obj\Debug\net10.0\Ex1.csproj.CoreCompileInputs.cache
+D:\CEITI\Anul III\Programarea vizuală\Ex1\obj\Debug\net10.0\Ex1.dll
+D:\CEITI\Anul III\Programarea vizuală\Ex1\obj\Debug\net10.0\refint\Ex1.dll
+D:\CEITI\Anul III\Programarea vizuală\Ex1\obj\Debug\net10.0\Ex1.pdb
+D:\CEITI\Anul III\Programarea vizuală\Ex1\obj\Debug\net10.0\Ex1.genruntimeconfig.cache
+D:\CEITI\Anul III\Programarea vizuală\Ex1\obj\Debug\net10.0\ref\Ex1.dll
