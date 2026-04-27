@@ -1,0 +1,70 @@
+﻿<Window x:Class="Program_Setup_app.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Program_Setup_app"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="LavenderBlush">
+        <Label Content="Choose instalation plan:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="27,15,0,0"/>
+        <RadioButton Name="fullPlan" Content="Full" Margin="292,25,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="18"/>
+        <RadioButton Name="limitedPlan" Content="Limited" Margin="440,25,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="18" RenderTransformOrigin="2.135,0.412"/>
+        <RadioButton Name="customPlan" Content="Custom" Margin="611,25,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="18" RenderTransformOrigin="2.135,0.412"/>
+        <GroupBox Header="User Data" Margin="25,87,416,33" FontSize="20"/>
+        
+        
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Top" Margin="53,149,0,0">
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Label Content="Username: " FontSize="16" Width="110"/>
+                <TextBox Name="usernameTextBox" TextWrapping="Wrap" Text="" Width="188" Height="31"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Label Content="Password: " FontSize="16" Width="110"/>
+                <TextBox Name="passwordTextBox" TextWrapping="Wrap" Text="" Width="188" Height="31"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Label Content="Language: " FontSize="16" Width="110"/>
+                <ComboBox Name="languageCombo" Width="188" Height="31">
+                    <ComboBoxItem Content="English"/>
+                    <ComboBoxItem Content="Spanish"/>
+                    <ComboBoxItem Content="French"/>
+                    <ComboBoxItem Content="Portuguese"/>
+                    <ComboBoxItem Content="Romanian"/>
+                </ComboBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Label Content="Version: " FontSize="16" Width="110"/>
+                <ComboBox Name="versionCombo" Width="188" Height="31">
+                    <ComboBoxItem Content="9.7.7"/>
+                    <ComboBoxItem Content="9.7.4"/>
+                    <ComboBoxItem Content="9.7.3"/>
+                    <ComboBoxItem Content="9.7.0"/>
+                    <ComboBoxItem Content="9.0.0"/>
+                </ComboBox>
+            </StackPanel>
+
+        </StackPanel>
+        
+        
+        <GroupBox Header="Chosen Settings" Margin="400,87,0,0" FontSize="20" 
+          HorizontalAlignment="Left" VerticalAlignment="Top" 
+          Height="314" Width="369">
+            <StackPanel>
+                <ListBox Name="listBox" MaxHeight="500" HorizontalAlignment="Left" VerticalAlignment="Top" 
+                 Width="323" Margin="10,20,0,0">
+                    <ListBoxItem Name="planNameItem">Plan:</ListBoxItem>
+                    <ListBoxItem Name="usernameItem">Username:</ListBoxItem>
+                    <ListBoxItem Name="languageItem">Language:</ListBoxItem>
+                    <ListBoxItem Name="selectedVersion" Content="Version:"/>
+                </ListBox>
+                <Button Content="Save" Margin="10,10,0,0" Width="100" HorizontalAlignment="Left" Background="#FFF9C6D7" Click="Button_Click"/>
+                <Button Content="Close" Margin="10, 10, 0 , 0" Width="100" HorizontalAlignment="Left" VerticalAlignment="Center" Background="White" Click="Button_Click_1"/>
+            </StackPanel>
+        </GroupBox>
+
+    </Grid>
+</Window>
